@@ -13,13 +13,11 @@ Student Details:
 
 
 ---
-
-1. Introduction
+Introduction
 As a Student Digital Ambassador, the goal of this project was to develop a comprehensive Digital Literacy Portfolio. This report documents my journey through five core modules: digital awareness, professional online presence, technical collaboration, communication etiquette, and cybersecurity. The objective is to serve as a role model for my peers in navigating the digital landscape safely and professionally.
 
 ---
-
-2. Task 1: Digital Awareness (Infographic)
+Task 1: Digital Awareness (Infographic)
 • Tool Used: [e.g., Canva]
 
 • Description: I created an infographic focusing on [mention your 3 topics, e.g., Safe Internet Practices, Email Etiquette, and Digital Tools].
@@ -30,7 +28,7 @@ This exercise taught me that digital literacy isn't just about knowing the facts
 
 ---
 
-3. Task 2: Digital Presence (Portfolio)
+Task 2: Digital Presence (Portfolio)
 • Platforms Set Up: LinkedIn, GitHub, and [e.g., Kaggle].
 
 • Purpose: These platforms allow me to showcase my academic progress and code repositories.
@@ -41,7 +39,7 @@ On LinkedIn, my goal is to connect with industry professionals and alumni over t
 
 ---
 
-4. Task 3: Coding & Collaboration
+Task 3: Coding & Collaboration
 • Platforms Used: [e.g., HackerRank] and Google Forms.
 
 • Activity: Completed the [Name of Challenge] and designed a 5-question Digital Literacy Quiz.
@@ -51,7 +49,7 @@ For the collaboration component, I utilized Google Forms to create a Digital Lit
 
 ---
 
-5. Task 4: Communication Etiquette
+Task 4: Communication Etiquette
 • Scenario: [Describe a situation where poor communication caused a problem].
 
 • Key Learnings: Learning the difference between informal and professional communication is vital. Structure and tone are the most important elements of digital communication.
@@ -62,7 +60,7 @@ Through this task, I learned that professional communication is about reducing f
 
 ---
 
-6. Task 5: Cyber Security
+Task 5: Cyber Security
 • Case Study Focus: [e.g., Phishing or UPI Fraud]
 
 • Personal Habit Change: After researching these threats, I have decided to enable Two-Factor Authentication (2FA) on all my accounts.
@@ -72,12 +70,12 @@ As a result, I will now be significantly more cautious with unsolicited links an
 
 ---
 
-7. Conclusion
+ Conclusion
 This project has significantly enhanced my digital literacy. I have moved from being a passive consumer of digital content to an active, responsible creator. As an Ambassador, I feel equipped to guide my peers in building their professional brands while staying secure online.
 
 ---
 
-8. References
+ References
 • CSE0001 Project Brief(https://vityarthi.b-cdn.net/VITyarthiProjects/CSE0001_Digital_Literacy_Project_Brief.docx.pdf)
 
 • National Cyber Crime Portal(https://cybercrime.gov.in)
