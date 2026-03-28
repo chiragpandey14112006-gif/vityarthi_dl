@@ -58,6 +58,3 @@ Researched cyber threats to promote online safety within the student community.
 • Safety Resources: National Cyber Crime Portal(https://cybercrime.gov.in) | Helpline: 1930
 
 ---
-
-📄 Project Report
-The full detailed report, including observations and reflections for each task, can be found in the `report/` folder.
