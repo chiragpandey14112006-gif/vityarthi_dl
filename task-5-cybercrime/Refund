@@ -1,9 +1,0 @@
-Case Study: The "Refund" UPI Scam
-
-The Incident: A student receives a call from someone claiming to be from a popular e-commerce site or food delivery app. The caller says there was a "failed transaction" and they need to issue a refund.
-
-The Trap: The attacker sends a "Request Money" link via a UPI app (like GPay or PhonePe) and tells the student to "Enter your PIN to receive the refund."
-
-The Outcome: Because many users don't realize that entering a PIN is only for sending money, never for receiving it, the student enters the PIN and the money is instantly debited from their account instead of credited.
-
-Lesson Learned: Never enter your UPI PIN to receive money. Always verify the sender's identity through official channels.
